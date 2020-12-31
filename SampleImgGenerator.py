@@ -1,7 +1,7 @@
 import numpy as np
 from PIL import Image
 
-img_size = {"height": 60, "width": 80, "depth": 3}
+img_size = {"height": 120, "width": 160, "depth": 3}
 
 if __name__ == "__main__":
     for i in range(16):
